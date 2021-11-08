@@ -120,15 +120,21 @@ sudo systemctl start couchbase-server
 #### Setting up cluster
 
 <ol>
-  <li> Now that Couchbase server is running, the console can be accessed over the network at `http://machine-ip-address:8091/`. You should now be met with the Couchbase Server welcome screen.
-  Please select `Setup New Cluster`. 
-  You will now be prompted to name your cluster and create an admin username and password. 
-  On you have done this, please check that you agree to the terms and conditions, then select `Configure Disk, Memory and Services. 
-  Please check the following services: Data, Query, Index. Leave the memory quotas as default. Select save and finish.
+  <li> Now that Couchbase server is running, the console can be accessed over the network at http://machine-ip-address:8091/. You should now be met with the Couchbase Server welcome screen.<ol>
+  <li>Please select Setup New Cluster. 
+  You will now be prompted to name your cluster and create an admin username and password. </li>
+  <li>Once you have done this, please check that you agree to the terms and conditions, then select Configure Disk, Memory and Services. </li>
+  <li>Please check the following services: Data, Query, Index. Leave the memory quotas as default. Select save and finish.</li></ol>
   </li>
-  <li>Navigate to the buckets tab. Select add bucket and create a new bucket named `retail`. Allocate it 500Mb. Leave everything else as default and select add bucket.
+  <li>Navigate to the buckets tab. 
+  <ol><li>Select add bucket and create a new bucket named retail. </li>
+  <li>Allocate it 500Mb. </li>
+  <li>Leave everything else as default and select add bucket.</li></ol>
   </li>
-  <li>Navigate to the security tab and select add user. You will be prompted to provide a username and password. On the right panel, select mobile and then select sync gateway. Select your `retail` bucket and select add. There should now be a checkmark next to the `retail` bucket. Select add user and your Couchbase server will now be configured for sync gateway.
+  <li>Navigate to the security tab and select add user. You will be prompted to provide a username and password. 
+  <ol><li>On the right panel, select mobile and then select sync gateway.</li> 
+  <li>Select your retail bucket and select add. There should now be a checkmark next to the retail bucket. </li>
+  <li>Select add user and your Couchbase server will now be configured for sync gateway.</li></ol>
   </li>
 </ol>
 
@@ -188,7 +194,7 @@ java -jar azure-edge-retail-0.0.1-SNAPSHOT.jar
 
 </li>
 <li>
-Please verify that the server is running by visiting `http://machine-ip-address:8080/swagger-ui/`. 
+Please verify that the server is running by visiting http://machine-ip-address:8080/swagger-ui/. 
 Here you will be able to check the health of the web service and perform CRUD operations on product documents.
 Please leave this process running.
 </li>
@@ -278,11 +284,11 @@ Please repeat steps for networking rules.
 
 ### Install Couchbase Server
 
-Please repeat steps for installing and configuring couchbase server.
+Please repeat steps for installing and configuring Couchbase Server.
 
 ### Install Sync Gateway
 
-Please repeat the steps for installing sync_gateway.
+Please repeat the steps for installing Sync Gateway.
 
 ### Download and Build Webserver
 
@@ -367,10 +373,10 @@ You have now set up bidirectional replication between cloud and edge.
 Please import the product data via the Couchbase Server Web UI at `http://cloud-machine-ip-address:8091`.
 
 <ol>
-<li>Navigate to the `Documents` tab and then select `Import`.</li>
+<li>Navigate to the Documents tab and then select Import.</li>
 <li>Select products.json as file to import.</li>
 <li>Parse file as JSON Lines format.</li>
-<li>Use the keyspace retail, _default, _default.</li>
+<li>Use the keyspace: retail, _default, _default.</li>
 <li>Import with document id, value of field: id. </li>
 <li>Select Import Data.</li>
 </ol>
