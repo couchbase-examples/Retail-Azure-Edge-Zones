@@ -1,0 +1,321 @@
+{"id":"product1","type":"product","name":"Trek 820 - 2016","brand":"Trek","category":"Mountain Bikes","modelYear":2016,"listPrice":379.99}
+{"id":"product2","type":"product","name":"Ritchey Timberwolf Frameset - 2016","brand":"Ritchey","category":"Mountain Bikes","modelYear":2016,"listPrice":749.99}
+{"id":"product3","type":"product","name":"Surly Wednesday Frameset - 2016","brand":"Surly","category":"Mountain Bikes","modelYear":2016,"listPrice":999.99}
+{"id":"product4","type":"product","name":"Trek Fuel EX 8 29 - 2016","brand":"Trek","category":"Mountain Bikes","modelYear":2016,"listPrice":2899.99}
+{"id":"product5","type":"product","name":"Heller Shagamaw Frame - 2016","brand":"Heller","category":"Mountain Bikes","modelYear":2016,"listPrice":1320.99}
+{"id":"product6","type":"product","name":"Surly Ice Cream Truck Frameset - 2016","brand":"Surly","category":"Mountain Bikes","modelYear":2016,"listPrice":469.99}
+{"id":"product7","type":"product","name":"Trek Slash 8 27.5 - 2016","brand":"Trek","category":"Mountain Bikes","modelYear":2016,"listPrice":3999.99}
+{"id":"product8","type":"product","name":"Trek Remedy 29 Carbon Frameset - 2016","brand":"Trek","category":"Mountain Bikes","modelYear":2016,"listPrice":1799.99}
+{"id":"product9","type":"product","name":"Trek Conduit+ - 2016","brand":"Trek","category":"Electric Bikes","modelYear":2016,"listPrice":2999.99}
+{"id":"product10","type":"product","name":"Surly Straggler - 2016","brand":"Surly","category":"Cyclocross Bicycles","modelYear":2016,"listPrice":1549}
+{"id":"product11","type":"product","name":"Surly Straggler 650b - 2016","brand":"Surly","category":"Cyclocross Bicycles","modelYear":2016,"listPrice":1680.99}
+{"id":"product12","type":"product","name":"Electra Townie Original 21D - 2016","brand":"Electra","category":"Cruisers Bicycles","modelYear":2016,"listPrice":549.99}
+{"id":"product13","type":"product","name":"Electra Cruiser 1 (24-Inch) - 2016","brand":"Electra","category":"Cruisers Bicycles","modelYear":2016,"listPrice":269.99}
+{"id":"product14","type":"product","name":"Electra Girl's Hawaii 1 (16-inch) - 2015/2016","brand":"Electra","category":"Cruisers Bicycles","modelYear":2016,"listPrice":269.99}
+{"id":"product15","type":"product","name":"Electra Moto 1 - 2016","brand":"Electra","category":"Cruisers Bicycles","modelYear":2016,"listPrice":529.99}
+{"id":"product16","type":"product","name":"Electra Townie Original 7D EQ - 2016","brand":"Electra","category":"Cruisers Bicycles","modelYear":2016,"listPrice":599.99}
+{"id":"product17","type":"product","name":"Pure Cycles Vine 8-Speed - 2016","brand":"Pure Cycles","category":"Cruisers Bicycles","modelYear":2016,"listPrice":429}
+{"id":"product18","type":"product","name":"Pure Cycles Western 3-Speed - Women's - 2015/2016","brand":"Pure Cycles","category":"Cruisers Bicycles","modelYear":2016,"listPrice":449}
+{"id":"product19","type":"product","name":"Pure Cycles William 3-Speed - 2016","brand":"Pure Cycles","category":"Cruisers Bicycles","modelYear":2016,"listPrice":449}
+{"id":"product20","type":"product","name":"Electra Townie Original 7D EQ - Women's - 2016","brand":"Electra","category":"Cruisers Bicycles","modelYear":2016,"listPrice":599.99}
+{"id":"product21","type":"product","name":"Electra Cruiser 1 (24-Inch) - 2016","brand":"Electra","category":"Children Bicycles","modelYear":2016,"listPrice":269.99}
+{"id":"product22","type":"product","name":"Electra Girl's Hawaii 1 (16-inch) - 2015/2016","brand":"Electra","category":"Children Bicycles","modelYear":2016,"listPrice":269.99}
+{"id":"product23","type":"product","name":"Electra Girl's Hawaii 1 (20-inch) - 2015/2016","brand":"Electra","category":"Children Bicycles","modelYear":2016,"listPrice":299.99}
+{"id":"product24","type":"product","name":"Electra Townie Original 21D - 2016","brand":"Electra","category":"Comfort Bicycles","modelYear":2016,"listPrice":549.99}
+{"id":"product25","type":"product","name":"Electra Townie Original 7D - 2015/2016","brand":"Electra","category":"Comfort Bicycles","modelYear":2016,"listPrice":499.99}
+{"id":"product26","type":"product","name":"Electra Townie Original 7D EQ - 2016","brand":"Electra","category":"Comfort Bicycles","modelYear":2016,"listPrice":599.99}
+{"id":"product27","type":"product","name":"Surly Big Dummy Frameset - 2017","brand":"Surly","category":"Mountain Bikes","modelYear":2017,"listPrice":999.99}
+{"id":"product28","type":"product","name":"Surly Karate Monkey 27.5+ Frameset - 2017","brand":"Surly","category":"Mountain Bikes","modelYear":2017,"listPrice":2499.99}
+{"id":"product29","type":"product","name":"Trek X-Caliber 8 - 2017","brand":"Trek","category":"Mountain Bikes","modelYear":2017,"listPrice":999.99}
+{"id":"product30","type":"product","name":"Surly Ice Cream Truck Frameset - 2017","brand":"Surly","category":"Mountain Bikes","modelYear":2017,"listPrice":999.99}
+{"id":"product31","type":"product","name":"Surly Wednesday - 2017","brand":"Surly","category":"Mountain Bikes","modelYear":2017,"listPrice":1632.99}
+{"id":"product32","type":"product","name":"Trek Farley Alloy Frameset - 2017","brand":"Trek","category":"Mountain Bikes","modelYear":2017,"listPrice":469.99}
+{"id":"product33","type":"product","name":"Surly Wednesday Frameset - 2017","brand":"Surly","category":"Mountain Bikes","modelYear":2017,"listPrice":469.99}
+{"id":"product34","type":"product","name":"Trek Session DH 27.5 Carbon Frameset - 2017","brand":"Trek","category":"Mountain Bikes","modelYear":2017,"listPrice":469.99}
+{"id":"product35","type":"product","name":"Sun Bicycles Spider 3i - 2017","brand":"Sun Bicycles","category":"Mountain Bikes","modelYear":2017,"listPrice":832.99}
+{"id":"product36","type":"product","name":"Surly Troll Frameset - 2017","brand":"Surly","category":"Mountain Bikes","modelYear":2017,"listPrice":832.99}
+{"id":"product37","type":"product","name":"Haro Flightline One ST - 2017","brand":"Haro","category":"Mountain Bikes","modelYear":2017,"listPrice":379.99}
+{"id":"product38","type":"product","name":"Haro Flightline Two 26 Plus - 2017","brand":"Haro","category":"Mountain Bikes","modelYear":2017,"listPrice":549.99}
+{"id":"product39","type":"product","name":"Trek Stache 5 - 2017","brand":"Trek","category":"Mountain Bikes","modelYear":2017,"listPrice":1499.99}
+{"id":"product40","type":"product","name":"Trek Fuel EX 9.8 29 - 2017","brand":"Trek","category":"Mountain Bikes","modelYear":2017,"listPrice":4999.99}
+{"id":"product41","type":"product","name":"Haro Shift R3 - 2017","brand":"Haro","category":"Mountain Bikes","modelYear":2017,"listPrice":1469.99}
+{"id":"product42","type":"product","name":"Trek Fuel EX 5 27.5 Plus - 2017","brand":"Trek","category":"Mountain Bikes","modelYear":2017,"listPrice":2299.99}
+{"id":"product43","type":"product","name":"Trek Fuel EX 9.8 27.5 Plus - 2017","brand":"Trek","category":"Mountain Bikes","modelYear":2017,"listPrice":5299.99}
+{"id":"product44","type":"product","name":"Haro SR 1.1 - 2017","brand":"Haro","category":"Mountain Bikes","modelYear":2017,"listPrice":539.99}
+{"id":"product45","type":"product","name":"Haro SR 1.2 - 2017","brand":"Haro","category":"Mountain Bikes","modelYear":2017,"listPrice":869.99}
+{"id":"product46","type":"product","name":"Haro SR 1.3 - 2017","brand":"Haro","category":"Mountain Bikes","modelYear":2017,"listPrice":1409.99}
+{"id":"product47","type":"product","name":"Trek Remedy 9.8 - 2017","brand":"Trek","category":"Mountain Bikes","modelYear":2017,"listPrice":5299.99}
+{"id":"product48","type":"product","name":"Trek Emonda S 4 - 2017","brand":"Trek","category":"Road Bikes","modelYear":2017,"listPrice":1499.99}
+{"id":"product49","type":"product","name":"Trek Domane SL 6 - 2017","brand":"Trek","category":"Road Bikes","modelYear":2017,"listPrice":3499.99}
+{"id":"product50","type":"product","name":"Trek Silque SLR 7 Women's - 2017","brand":"Trek","category":"Road Bikes","modelYear":2017,"listPrice":5999.99}
+{"id":"product51","type":"product","name":"Trek Silque SLR 8 Women's - 2017","brand":"Trek","category":"Road Bikes","modelYear":2017,"listPrice":6499.99}
+{"id":"product52","type":"product","name":"Surly Steamroller - 2017","brand":"Surly","category":"Road Bikes","modelYear":2017,"listPrice":875.99}
+{"id":"product53","type":"product","name":"Surly Ogre Frameset - 2017","brand":"Surly","category":"Road Bikes","modelYear":2017,"listPrice":749.99}
+{"id":"product54","type":"product","name":"Trek Domane SL Disc Frameset - 2017","brand":"Trek","category":"Road Bikes","modelYear":2017,"listPrice":3199.99}
+{"id":"product55","type":"product","name":"Trek Domane S 6 - 2017","brand":"Trek","category":"Road Bikes","modelYear":2017,"listPrice":2699.99}
+{"id":"product56","type":"product","name":"Trek Domane SLR 6 Disc - 2017","brand":"Trek","category":"Road Bikes","modelYear":2017,"listPrice":5499.99}
+{"id":"product57","type":"product","name":"Trek Emonda S 5 - 2017","brand":"Trek","category":"Road Bikes","modelYear":2017,"listPrice":1999.99}
+{"id":"product58","type":"product","name":"Trek Madone 9.2 - 2017","brand":"Trek","category":"Road Bikes","modelYear":2017,"listPrice":4999.99}
+{"id":"product59","type":"product","name":"Trek Domane S 5 Disc - 2017","brand":"Trek","category":"Road Bikes","modelYear":2017,"listPrice":2599.99}
+{"id":"product60","type":"product","name":"Sun Bicycles ElectroLite - 2017","brand":"Sun Bicycles","category":"Electric Bikes","modelYear":2017,"listPrice":1559.99}
+{"id":"product61","type":"product","name":"Trek Powerfly 8 FS Plus - 2017","brand":"Trek","category":"Electric Bikes","modelYear":2017,"listPrice":4999.99}
+{"id":"product62","type":"product","name":"Trek Boone 7 - 2017","brand":"Trek","category":"Cyclocross Bicycles","modelYear":2017,"listPrice":3499.99}
+{"id":"product63","type":"product","name":"Trek Boone Race Shop Limited - 2017","brand":"Trek","category":"Cyclocross Bicycles","modelYear":2017,"listPrice":3499.99}
+{"id":"product64","type":"product","name":"Electra Townie Original 7D - 2017","brand":"Electra","category":"Cruisers Bicycles","modelYear":2017,"listPrice":489.99}
+{"id":"product65","type":"product","name":"Sun Bicycles Lil Bolt Type-R - 2017","brand":"Sun Bicycles","category":"Cruisers Bicycles","modelYear":2017,"listPrice":346.99}
+{"id":"product66","type":"product","name":"Sun Bicycles Revolutions 24 - 2017","brand":"Sun Bicycles","category":"Cruisers Bicycles","modelYear":2017,"listPrice":250.99}
+{"id":"product67","type":"product","name":"Sun Bicycles Revolutions 24 - Girl's - 2017","brand":"Sun Bicycles","category":"Cruisers Bicycles","modelYear":2017,"listPrice":250.99}
+{"id":"product68","type":"product","name":"Sun Bicycles Cruz 3 - 2017","brand":"Sun Bicycles","category":"Cruisers Bicycles","modelYear":2017,"listPrice":449.99}
+{"id":"product69","type":"product","name":"Sun Bicycles Cruz 7 - 2017","brand":"Sun Bicycles","category":"Cruisers Bicycles","modelYear":2017,"listPrice":416.99}
+{"id":"product70","type":"product","name":"Electra Amsterdam Original 3i - 2015/2017","brand":"Electra","category":"Cruisers Bicycles","modelYear":2017,"listPrice":659.99}
+{"id":"product71","type":"product","name":"Sun Bicycles Atlas X-Type - 2017","brand":"Sun Bicycles","category":"Cruisers Bicycles","modelYear":2017,"listPrice":416.99}
+{"id":"product72","type":"product","name":"Sun Bicycles Biscayne Tandem 7 - 2017","brand":"Sun Bicycles","category":"Cruisers Bicycles","modelYear":2017,"listPrice":619.99}
+{"id":"product73","type":"product","name":"Sun Bicycles Brickell Tandem 7 - 2017","brand":"Sun Bicycles","category":"Cruisers Bicycles","modelYear":2017,"listPrice":749.99}
+{"id":"product74","type":"product","name":"Electra Cruiser Lux 1 - 2017","brand":"Electra","category":"Cruisers Bicycles","modelYear":2017,"listPrice":439.99}
+{"id":"product75","type":"product","name":"Electra Cruiser Lux Fat Tire 1 Ladies - 2017","brand":"Electra","category":"Cruisers Bicycles","modelYear":2017,"listPrice":599.99}
+{"id":"product76","type":"product","name":"Electra Girl's Hawaii 1 16\" - 2017","brand":"Electra","category":"Cruisers Bicycles","modelYear":2017,"listPrice":299.99}
+{"id":"product77","type":"product","name":"Electra Glam Punk 3i Ladies' - 2017","brand":"Electra","category":"Cruisers Bicycles","modelYear":2017,"listPrice":799.99}
+{"id":"product78","type":"product","name":"Sun Bicycles Biscayne Tandem CB - 2017","brand":"Sun Bicycles","category":"Cruisers Bicycles","modelYear":2017,"listPrice":647.99}
+{"id":"product79","type":"product","name":"Sun Bicycles Boardwalk (24-inch Wheels) - 2017","brand":"Sun Bicycles","category":"Cruisers Bicycles","modelYear":2017,"listPrice":402.99}
+{"id":"product80","type":"product","name":"Sun Bicycles Brickell Tandem CB - 2017","brand":"Sun Bicycles","category":"Cruisers Bicycles","modelYear":2017,"listPrice":761.99}
+{"id":"product81","type":"product","name":"Electra Amsterdam Fashion 7i Ladies' - 2017","brand":"Electra","category":"Cruisers Bicycles","modelYear":2017,"listPrice":1099.99}
+{"id":"product82","type":"product","name":"Electra Amsterdam Original 3i Ladies' - 2017","brand":"Electra","category":"Cruisers Bicycles","modelYear":2017,"listPrice":659.99}
+{"id":"product83","type":"product","name":"Trek Boy's Kickster - 2015/2017","brand":"Trek","category":"Children Bicycles","modelYear":2017,"listPrice":149.99}
+{"id":"product84","type":"product","name":"Sun Bicycles Lil Kitt'n - 2017","brand":"Sun Bicycles","category":"Children Bicycles","modelYear":2017,"listPrice":109.99}
+{"id":"product85","type":"product","name":"Haro Downtown 16 - 2017","brand":"Haro","category":"Children Bicycles","modelYear":2017,"listPrice":329.99}
+{"id":"product86","type":"product","name":"Trek Girl's Kickster - 2017","brand":"Trek","category":"Children Bicycles","modelYear":2017,"listPrice":149.99}
+{"id":"product87","type":"product","name":"Trek Precaliber 12 Boys - 2017","brand":"Trek","category":"Children Bicycles","modelYear":2017,"listPrice":189.99}
+{"id":"product88","type":"product","name":"Trek Precaliber 12 Girls - 2017","brand":"Trek","category":"Children Bicycles","modelYear":2017,"listPrice":189.99}
+{"id":"product89","type":"product","name":"Trek Precaliber 16 Boys - 2017","brand":"Trek","category":"Children Bicycles","modelYear":2017,"listPrice":209.99}
+{"id":"product90","type":"product","name":"Trek Precaliber 16 Girls - 2017","brand":"Trek","category":"Children Bicycles","modelYear":2017,"listPrice":209.99}
+{"id":"product91","type":"product","name":"Trek Precaliber 24 (21-Speed) - Girls - 2017","brand":"Trek","category":"Children Bicycles","modelYear":2017,"listPrice":349.99}
+{"id":"product92","type":"product","name":"Haro Shredder 20 - 2017","brand":"Haro","category":"Children Bicycles","modelYear":2017,"listPrice":209.99}
+{"id":"product93","type":"product","name":"Haro Shredder 20 Girls - 2017","brand":"Haro","category":"Children Bicycles","modelYear":2017,"listPrice":209.99}
+{"id":"product94","type":"product","name":"Haro Shredder Pro 20 - 2017","brand":"Haro","category":"Children Bicycles","modelYear":2017,"listPrice":249.99}
+{"id":"product95","type":"product","name":"Electra Girl's Hawaii 1 16\" - 2017","brand":"Electra","category":"Children Bicycles","modelYear":2017,"listPrice":299.99}
+{"id":"product96","type":"product","name":"Electra Moto 3i (20-inch) - Boy's - 2017","brand":"Electra","category":"Children Bicycles","modelYear":2017,"listPrice":349.99}
+{"id":"product97","type":"product","name":"Electra Savannah 3i (20-inch) - Girl's - 2017","brand":"Electra","category":"Children Bicycles","modelYear":2017,"listPrice":349.99}
+{"id":"product98","type":"product","name":"Electra Straight 8 3i (20-inch) - Boy's - 2017","brand":"Electra","category":"Children Bicycles","modelYear":2017,"listPrice":489.99}
+{"id":"product99","type":"product","name":"Electra Sugar Skulls 1 (20-inch) - Girl's - 2017","brand":"Electra","category":"Children Bicycles","modelYear":2017,"listPrice":299.99}
+{"id":"product100","type":"product","name":"Electra Townie 3i EQ (20-inch) - Boys' - 2017","brand":"Electra","category":"Children Bicycles","modelYear":2017,"listPrice":489.99}
+{"id":"product101","type":"product","name":"Electra Townie 7D (20-inch) - Boys' - 2017","brand":"Electra","category":"Children Bicycles","modelYear":2017,"listPrice":339.99}
+{"id":"product102","type":"product","name":"Electra Townie Original 7D - 2017","brand":"Electra","category":"Comfort Bicycles","modelYear":2017,"listPrice":489.99}
+{"id":"product103","type":"product","name":"Sun Bicycles Streamway 3 - 2017","brand":"Sun Bicycles","category":"Comfort Bicycles","modelYear":2017,"listPrice":551.99}
+{"id":"product104","type":"product","name":"Sun Bicycles Streamway - 2017","brand":"Sun Bicycles","category":"Comfort Bicycles","modelYear":2017,"listPrice":481.99}
+{"id":"product105","type":"product","name":"Sun Bicycles Streamway 7 - 2017","brand":"Sun Bicycles","category":"Comfort Bicycles","modelYear":2017,"listPrice":533.99}
+{"id":"product106","type":"product","name":"Sun Bicycles Cruz 3 - 2017","brand":"Sun Bicycles","category":"Comfort Bicycles","modelYear":2017,"listPrice":449.99}
+{"id":"product107","type":"product","name":"Sun Bicycles Cruz 7 - 2017","brand":"Sun Bicycles","category":"Comfort Bicycles","modelYear":2017,"listPrice":416.99}
+{"id":"product108","type":"product","name":"Sun Bicycles Cruz 3 - Women's - 2017","brand":"Sun Bicycles","category":"Comfort Bicycles","modelYear":2017,"listPrice":449.99}
+{"id":"product109","type":"product","name":"Sun Bicycles Cruz 7 - Women's - 2017","brand":"Sun Bicycles","category":"Comfort Bicycles","modelYear":2017,"listPrice":416.99}
+{"id":"product110","type":"product","name":"Sun Bicycles Drifter 7 - 2017","brand":"Sun Bicycles","category":"Comfort Bicycles","modelYear":2017,"listPrice":470.99}
+{"id":"product111","type":"product","name":"Sun Bicycles Drifter 7 - Women's - 2017","brand":"Sun Bicycles","category":"Comfort Bicycles","modelYear":2017,"listPrice":470.99}
+{"id":"product112","type":"product","name":"Trek 820 - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":379.99}
+{"id":"product113","type":"product","name":"Trek Marlin 5 - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":489.99}
+{"id":"product114","type":"product","name":"Trek Marlin 6 - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":579.99}
+{"id":"product115","type":"product","name":"Trek Fuel EX 8 29 - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":3199.99}
+{"id":"product116","type":"product","name":"Trek Marlin 7 - 2017/2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":749.99}
+{"id":"product117","type":"product","name":"Trek Ticket S Frame - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":1469.99}
+{"id":"product118","type":"product","name":"Trek X-Caliber 8 - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":999.99}
+{"id":"product119","type":"product","name":"Trek Kids' Neko - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":469.99}
+{"id":"product120","type":"product","name":"Trek Fuel EX 7 29 - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":2499.99}
+{"id":"product121","type":"product","name":"Surly Krampus Frameset - 2018","brand":"Surly","category":"Mountain Bikes","modelYear":2018,"listPrice":2499.99}
+{"id":"product122","type":"product","name":"Surly Troll Frameset - 2018","brand":"Surly","category":"Mountain Bikes","modelYear":2018,"listPrice":2499.99}
+{"id":"product123","type":"product","name":"Trek Farley Carbon Frameset - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":999.99}
+{"id":"product124","type":"product","name":"Surly Krampus - 2018","brand":"Surly","category":"Mountain Bikes","modelYear":2018,"listPrice":1499}
+{"id":"product125","type":"product","name":"Trek Kids' Dual Sport - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":469.99}
+{"id":"product126","type":"product","name":"Surly Big Fat Dummy Frameset - 2018","brand":"Surly","category":"Mountain Bikes","modelYear":2018,"listPrice":469.99}
+{"id":"product127","type":"product","name":"Surly Pack Rat Frameset - 2018","brand":"Surly","category":"Mountain Bikes","modelYear":2018,"listPrice":469.99}
+{"id":"product128","type":"product","name":"Surly ECR 27.5 - 2018","brand":"Surly","category":"Mountain Bikes","modelYear":2018,"listPrice":1899}
+{"id":"product129","type":"product","name":"Trek X-Caliber 7 - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":919.99}
+{"id":"product130","type":"product","name":"Trek Stache Carbon Frameset - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":919.99}
+{"id":"product131","type":"product","name":"Heller Bloodhound Trail - 2018","brand":"Heller","category":"Mountain Bikes","modelYear":2018,"listPrice":2599}
+{"id":"product132","type":"product","name":"Trek Procal AL Frameset - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":1499.99}
+{"id":"product133","type":"product","name":"Trek Procaliber Frameset - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":1499.99}
+{"id":"product134","type":"product","name":"Trek Remedy 27.5 C Frameset - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":1499.99}
+{"id":"product135","type":"product","name":"Trek X-Caliber Frameset - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":1499.99}
+{"id":"product136","type":"product","name":"Trek Procaliber 6 - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":1799.99}
+{"id":"product137","type":"product","name":"Heller Shagamaw GX1 - 2018","brand":"Heller","category":"Mountain Bikes","modelYear":2018,"listPrice":2599}
+{"id":"product138","type":"product","name":"Trek Fuel EX 5 Plus - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":2249.99}
+{"id":"product139","type":"product","name":"Trek Remedy 7 27.5 - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":2999.99}
+{"id":"product140","type":"product","name":"Trek Remedy 9.8 27.5 - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":4999.99}
+{"id":"product141","type":"product","name":"Trek Stache 5 - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":1599.99}
+{"id":"product142","type":"product","name":"Trek Fuel EX 8 29 XT - 2018","brand":"Trek","category":"Mountain Bikes","modelYear":2018,"listPrice":3199.99}
+{"id":"product143","type":"product","name":"Trek Domane ALR 3 - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":1099.99}
+{"id":"product144","type":"product","name":"Trek Domane ALR 4 Disc - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":1549.99}
+{"id":"product145","type":"product","name":"Trek Domane ALR 5 Disc - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":1799.99}
+{"id":"product146","type":"product","name":"Trek Domane SLR 6 - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":4999.99}
+{"id":"product147","type":"product","name":"Trek Domane ALR 5 Gravel - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":1799.99}
+{"id":"product148","type":"product","name":"Trek Domane SL 8 Disc - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":5499.99}
+{"id":"product149","type":"product","name":"Trek Domane SLR 8 Disc - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":7499.99}
+{"id":"product150","type":"product","name":"Trek Emonda SL 7 - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":4499.99}
+{"id":"product151","type":"product","name":"Trek Domane ALR 4 Disc Women's - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":1549.99}
+{"id":"product152","type":"product","name":"Trek Domane SL 5 Disc Women's - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":2499.99}
+{"id":"product153","type":"product","name":"Trek Domane SL 7 Women's - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":4999.99}
+{"id":"product154","type":"product","name":"Trek Domane SLR 6 Disc Women's - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":5499.99}
+{"id":"product155","type":"product","name":"Trek Domane SLR 9 Disc - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":11999.99}
+{"id":"product156","type":"product","name":"Trek Domane SL Frameset - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":6499.99}
+{"id":"product157","type":"product","name":"Trek Domane SL Frameset Women's - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":6499.99}
+{"id":"product158","type":"product","name":"Trek CrossRip 1 - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":959.99}
+{"id":"product159","type":"product","name":"Trek Emonda ALR 6 - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":2299.99}
+{"id":"product160","type":"product","name":"Trek Emonda SLR 6 - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":4499.99}
+{"id":"product161","type":"product","name":"Surly ECR - 2018","brand":"Surly","category":"Road Bikes","modelYear":2018,"listPrice":1899}
+{"id":"product162","type":"product","name":"Trek Emonda SL 6 Disc - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":2999.99}
+{"id":"product163","type":"product","name":"Surly Pack Rat - 2018","brand":"Surly","category":"Road Bikes","modelYear":2018,"listPrice":1349}
+{"id":"product164","type":"product","name":"Surly Straggler 650b - 2018","brand":"Surly","category":"Road Bikes","modelYear":2018,"listPrice":1549}
+{"id":"product165","type":"product","name":"Trek 1120 - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":2499.99}
+{"id":"product166","type":"product","name":"Trek Domane AL 2 Women's - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":749.99}
+{"id":"product167","type":"product","name":"Surly ECR Frameset - 2018","brand":"Surly","category":"Road Bikes","modelYear":2018,"listPrice":749.99}
+{"id":"product168","type":"product","name":"Surly Straggler - 2018","brand":"Surly","category":"Road Bikes","modelYear":2018,"listPrice":1549}
+{"id":"product169","type":"product","name":"Trek Emonda SLR 8 - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":6499.99}
+{"id":"product170","type":"product","name":"Trek CrossRip 2 - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":1299.99}
+{"id":"product171","type":"product","name":"Trek Domane SL 6 - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":3199.99}
+{"id":"product172","type":"product","name":"Trek Domane ALR Disc Frameset - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":3199.99}
+{"id":"product173","type":"product","name":"Trek Domane ALR Frameset - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":3199.99}
+{"id":"product174","type":"product","name":"Trek Domane SLR Disc Frameset - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":3199.99}
+{"id":"product175","type":"product","name":"Trek Domane SLR Frameset - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":3199.99}
+{"id":"product176","type":"product","name":"Trek Madone 9 Frameset - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":3199.99}
+{"id":"product177","type":"product","name":"Trek Domane SLR 6 Disc - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":5499.99}
+{"id":"product178","type":"product","name":"Trek Domane AL 2 - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":749.99}
+{"id":"product179","type":"product","name":"Trek Domane AL 3 - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":919.99}
+{"id":"product180","type":"product","name":"Trek Domane AL 3 Women's - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":919.99}
+{"id":"product181","type":"product","name":"Trek Domane SL 5 - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":2199.99}
+{"id":"product182","type":"product","name":"Trek Domane SL 5 Disc - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":2499.99}
+{"id":"product183","type":"product","name":"Trek Domane SL 5 Women's - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":2199.99}
+{"id":"product184","type":"product","name":"Trek Domane SL 6 Disc - 2018","brand":"Trek","category":"Road Bikes","modelYear":2018,"listPrice":3499.99}
+{"id":"product185","type":"product","name":"Trek Conduit+ - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":2799.99}
+{"id":"product186","type":"product","name":"Trek CrossRip+ - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":4499.99}
+{"id":"product187","type":"product","name":"Trek Neko+ - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":2799.99}
+{"id":"product188","type":"product","name":"Trek XM700+ Lowstep - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":3499.99}
+{"id":"product189","type":"product","name":"Trek Lift+ Lowstep - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":2799.99}
+{"id":"product190","type":"product","name":"Trek Dual Sport+ - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":2799.99}
+{"id":"product191","type":"product","name":"Electra Loft Go! 8i - 2018","brand":"Electra","category":"Electric Bikes","modelYear":2018,"listPrice":2799.99}
+{"id":"product192","type":"product","name":"Electra Townie Go! 8i - 2017/2018","brand":"Electra","category":"Electric Bikes","modelYear":2018,"listPrice":2599.99}
+{"id":"product193","type":"product","name":"Trek Lift+ - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":2799.99}
+{"id":"product194","type":"product","name":"Trek XM700+ - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":3499.99}
+{"id":"product195","type":"product","name":"Electra Townie Go! 8i Ladies' - 2018","brand":"Electra","category":"Electric Bikes","modelYear":2018,"listPrice":2599.99}
+{"id":"product196","type":"product","name":"Trek Verve+ - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":2299.99}
+{"id":"product197","type":"product","name":"Trek Verve+ Lowstep - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":2299.99}
+{"id":"product198","type":"product","name":"Electra Townie Commute Go! - 2018","brand":"Electra","category":"Electric Bikes","modelYear":2018,"listPrice":2999.99}
+{"id":"product199","type":"product","name":"Electra Townie Commute Go! Ladies' - 2018","brand":"Electra","category":"Electric Bikes","modelYear":2018,"listPrice":2999.99}
+{"id":"product200","type":"product","name":"Trek Powerfly 5 - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":3499.99}
+{"id":"product201","type":"product","name":"Trek Powerfly 5 FS - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":4499.99}
+{"id":"product202","type":"product","name":"Trek Powerfly 5 Women's - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":3499.99}
+{"id":"product203","type":"product","name":"Trek Powerfly 7 FS - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":4999.99}
+{"id":"product204","type":"product","name":"Trek Super Commuter+ 7 - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":3599.99}
+{"id":"product205","type":"product","name":"Trek Super Commuter+ 8S - 2018","brand":"Trek","category":"Electric Bikes","modelYear":2018,"listPrice":4999.99}
+{"id":"product206","type":"product","name":"Trek Boone 5 Disc - 2018","brand":"Trek","category":"Cyclocross Bicycles","modelYear":2018,"listPrice":3299.99}
+{"id":"product207","type":"product","name":"Trek Boone 7 Disc - 2018","brand":"Trek","category":"Cyclocross Bicycles","modelYear":2018,"listPrice":3999.99}
+{"id":"product208","type":"product","name":"Trek Crockett 5 Disc - 2018","brand":"Trek","category":"Cyclocross Bicycles","modelYear":2018,"listPrice":1799.99}
+{"id":"product209","type":"product","name":"Trek Crockett 7 Disc - 2018","brand":"Trek","category":"Cyclocross Bicycles","modelYear":2018,"listPrice":2999.99}
+{"id":"product210","type":"product","name":"Surly Straggler - 2018","brand":"Surly","category":"Cyclocross Bicycles","modelYear":2018,"listPrice":1549}
+{"id":"product211","type":"product","name":"Surly Straggler 650b - 2018","brand":"Surly","category":"Cyclocross Bicycles","modelYear":2018,"listPrice":1549}
+{"id":"product212","type":"product","name":"Electra Townie Original 21D - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":559.99}
+{"id":"product213","type":"product","name":"Electra Cruiser 1 - 2016/2017/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":269.99}
+{"id":"product214","type":"product","name":"Electra Tiger Shark 3i - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":899.99}
+{"id":"product215","type":"product","name":"Electra Queen of Hearts 3i - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":749.99}
+{"id":"product216","type":"product","name":"Electra Super Moto 8i - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":899.99}
+{"id":"product217","type":"product","name":"Electra Straight 8 3i - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":909.99}
+{"id":"product218","type":"product","name":"Electra Cruiser 7D - 2016/2017/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":319.99}
+{"id":"product219","type":"product","name":"Electra Moto 3i - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":639.99}
+{"id":"product220","type":"product","name":"Electra Cruiser 1 Ladies' - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":269.99}
+{"id":"product221","type":"product","name":"Electra Cruiser 7D Ladies' - 2016/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":319.99}
+{"id":"product222","type":"product","name":"Electra Cruiser 1 Tall - 2016/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":269.99}
+{"id":"product223","type":"product","name":"Electra Cruiser Lux 3i - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":529.99}
+{"id":"product224","type":"product","name":"Electra Cruiser Lux 7D - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":479.99}
+{"id":"product225","type":"product","name":"Electra Delivery 3i - 2016/2017/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":959.99}
+{"id":"product226","type":"product","name":"Electra Townie Original 21D EQ - 2017/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":679.99}
+{"id":"product227","type":"product","name":"Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":319.99}
+{"id":"product228","type":"product","name":"Electra Cruiser 7D Tall - 2016/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":319.99}
+{"id":"product229","type":"product","name":"Electra Cruiser Lux 1 - 2016/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":429.99}
+{"id":"product230","type":"product","name":"Electra Cruiser Lux 1 Ladies' - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":429.99}
+{"id":"product231","type":"product","name":"Electra Cruiser Lux 3i Ladies' - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":529.99}
+{"id":"product232","type":"product","name":"Electra Cruiser Lux 7D Ladies' - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":479.99}
+{"id":"product233","type":"product","name":"Electra Cruiser Lux Fat Tire 7D - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":639.99}
+{"id":"product234","type":"product","name":"Electra Daydreamer 3i Ladies' - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":899.99}
+{"id":"product235","type":"product","name":"Electra Koa 3i Ladies' - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":899.99}
+{"id":"product236","type":"product","name":"Electra Morningstar 3i Ladies' - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":749.99}
+{"id":"product237","type":"product","name":"Electra Relic 3i - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":849.99}
+{"id":"product238","type":"product","name":"Electra Townie Balloon 8D EQ - 2016/2017/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":749.99}
+{"id":"product239","type":"product","name":"Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":749.99}
+{"id":"product240","type":"product","name":"Electra Townie Commute 27D Ladies - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":899.99}
+{"id":"product241","type":"product","name":"Electra Townie Commute 8D - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":749.99}
+{"id":"product242","type":"product","name":"Electra Townie Commute 8D Ladies' - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":699.99}
+{"id":"product243","type":"product","name":"Electra Townie Original 21D EQ Ladies' - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":679.99}
+{"id":"product244","type":"product","name":"Electra Townie Original 21D Ladies' - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":559.99}
+{"id":"product245","type":"product","name":"Electra Townie Original 3i EQ - 2017/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":659.99}
+{"id":"product246","type":"product","name":"Electra Townie Original 3i EQ Ladies' - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":639.99}
+{"id":"product247","type":"product","name":"Electra Townie Original 7D EQ - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":599.99}
+{"id":"product248","type":"product","name":"Electra Townie Original 7D EQ Ladies' - 2017/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":599.99}
+{"id":"product249","type":"product","name":"Electra White Water 3i - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":749.99}
+{"id":"product250","type":"product","name":"Electra Townie Go! 8i - 2017/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":2599.99}
+{"id":"product251","type":"product","name":"Electra Townie Commute Go! - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":2999.99}
+{"id":"product252","type":"product","name":"Electra Townie Commute Go! Ladies' - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":2999.99}
+{"id":"product253","type":"product","name":"Electra Townie Go! 8i Ladies' - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":2599.99}
+{"id":"product254","type":"product","name":"Electra Townie Balloon 3i EQ - 2017/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":749.99}
+{"id":"product255","type":"product","name":"Electra Townie Balloon 7i EQ Ladies' - 2017/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":899.99}
+{"id":"product256","type":"product","name":"Electra Townie Commute 27D - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":899.99}
+{"id":"product257","type":"product","name":"Electra Amsterdam Fashion 3i Ladies' - 2017/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":899.99}
+{"id":"product258","type":"product","name":"Electra Amsterdam Royal 8i - 2017/2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":1259.9}
+{"id":"product259","type":"product","name":"Electra Amsterdam Royal 8i Ladies - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":1199.99}
+{"id":"product260","type":"product","name":"Electra Townie Balloon 3i EQ Ladies' - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":799.99}
+{"id":"product261","type":"product","name":"Electra Townie Balloon 7i EQ - 2018","brand":"Electra","category":"Cruisers Bicycles","modelYear":2018,"listPrice":899.99}
+{"id":"product262","type":"product","name":"Trek MT 201 - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":249.99}
+{"id":"product263","type":"product","name":"Strider Classic 12 Balance Bike - 2018","brand":"Strider","category":"Children Bicycles","modelYear":2018,"listPrice":89.99}
+{"id":"product264","type":"product","name":"Strider Sport 16 - 2018","brand":"Strider","category":"Children Bicycles","modelYear":2018,"listPrice":249.99}
+{"id":"product265","type":"product","name":"Strider Strider 20 Sport - 2018","brand":"Strider","category":"Children Bicycles","modelYear":2018,"listPrice":289.99}
+{"id":"product266","type":"product","name":"Trek Superfly 20 - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":399.99}
+{"id":"product267","type":"product","name":"Trek Precaliber 12 Girl's - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":199.99}
+{"id":"product268","type":"product","name":"Trek Kickster - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":159.99}
+{"id":"product269","type":"product","name":"Trek Precaliber 12 Boy's - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":199.99}
+{"id":"product270","type":"product","name":"Trek Precaliber 16 Boy's - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":209.99}
+{"id":"product271","type":"product","name":"Trek Precaliber 16 Girl's - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":209.99}
+{"id":"product272","type":"product","name":"Trek Precaliber 20 6-speed Boy's - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":289.99}
+{"id":"product273","type":"product","name":"Trek Precaliber 20 6-speed Girl's - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":289.99}
+{"id":"product274","type":"product","name":"Trek Precaliber 20 Boy's - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":229.99}
+{"id":"product275","type":"product","name":"Trek Precaliber 20 Girl's - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":229.99}
+{"id":"product276","type":"product","name":"Trek Precaliber 24 (7-Speed) - Boys - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":319.99}
+{"id":"product277","type":"product","name":"Trek Precaliber 24 21-speed Boy's - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":369.99}
+{"id":"product278","type":"product","name":"Trek Precaliber 24 21-speed Girl's - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":369.99}
+{"id":"product279","type":"product","name":"Trek Precaliber 24 7-speed Girl's - 2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":319.99}
+{"id":"product280","type":"product","name":"Trek Superfly 24 - 2017/2018","brand":"Trek","category":"Children Bicycles","modelYear":2018,"listPrice":489.99}
+{"id":"product281","type":"product","name":"Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":319.99}
+{"id":"product282","type":"product","name":"Electra Cyclosaurus 1 (16-inch) - Boy's - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":279.99}
+{"id":"product283","type":"product","name":"Electra Heartchya 1 (20-inch) - Girl's - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":319.99}
+{"id":"product284","type":"product","name":"Electra Savannah 1 (20-inch) - Girl's - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":319.99}
+{"id":"product285","type":"product","name":"Electra Soft Serve 1 (16-inch) - Girl's - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":279.99}
+{"id":"product286","type":"product","name":"Electra Starship 1 16\" - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":279.99}
+{"id":"product287","type":"product","name":"Electra Straight 8 1 (16-inch) - Boy's - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":279.99}
+{"id":"product288","type":"product","name":"Electra Straight 8 1 (20-inch) - Boy's - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":389.99}
+{"id":"product289","type":"product","name":"Electra Superbolt 1 20\" - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":319.99}
+{"id":"product290","type":"product","name":"Electra Superbolt 3i 20\" - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":369.99}
+{"id":"product291","type":"product","name":"Electra Sweet Ride 1 (20-inch) - Girl's - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":319.99}
+{"id":"product292","type":"product","name":"Electra Sweet Ride 3i (20-inch) - Girls' - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":369.99}
+{"id":"product293","type":"product","name":"Electra Tiger Shark 1 (20-inch) - Boys' - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":319.99}
+{"id":"product294","type":"product","name":"Electra Tiger Shark 3i (20-inch) - Boys' - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":369.99}
+{"id":"product295","type":"product","name":"Electra Treasure 1 20\" - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":319.99}
+{"id":"product296","type":"product","name":"Electra Treasure 3i 20\" - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":369.99}
+{"id":"product297","type":"product","name":"Electra Under-The-Sea 1 16\" - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":279.99}
+{"id":"product298","type":"product","name":"Electra Water Lily 1 (16-inch) - Girl's - 2018","brand":"Electra","category":"Children Bicycles","modelYear":2018,"listPrice":279.99}
+{"id":"product299","type":"product","name":"Electra Townie Original 21D - 2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":559.99}
+{"id":"product300","type":"product","name":"Electra Townie Balloon 3i EQ Ladies' - 2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":799.99}
+{"id":"product301","type":"product","name":"Electra Townie Balloon 7i EQ - 2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":899.99}
+{"id":"product302","type":"product","name":"Electra Townie Original 1 - 2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":449.99}
+{"id":"product303","type":"product","name":"Electra Townie Go! 8i - 2017/2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":2599.99}
+{"id":"product304","type":"product","name":"Electra Townie Original 21D EQ - 2017/2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":679.99}
+{"id":"product305","type":"product","name":"Electra Townie Balloon 3i EQ - 2017/2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":749.99}
+{"id":"product306","type":"product","name":"Electra Townie Balloon 7i EQ Ladies' - 2017/2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":899.99}
+{"id":"product307","type":"product","name":"Electra Townie Balloon 8D EQ - 2016/2017/2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":749.99}
+{"id":"product308","type":"product","name":"Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":749.99}
+{"id":"product309","type":"product","name":"Electra Townie Commute 27D - 2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":899.99}
+{"id":"product310","type":"product","name":"Electra Townie Commute 27D Ladies - 2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":899.99}
+{"id":"product311","type":"product","name":"Electra Townie Commute 8D - 2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":749.99}
+{"id":"product312","type":"product","name":"Electra Townie Commute 8D Ladies' - 2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":699.99}
+{"id":"product313","type":"product","name":"Electra Townie Original 1 Ladies' - 2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":449.99}
+{"id":"product314","type":"product","name":"Electra Townie Original 21D EQ Ladies' - 2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":679.99}
+{"id":"product315","type":"product","name":"Electra Townie Original 21D Ladies' - 2018","brand":"Electra","category":"Comfort Bicycles","modelYear":2018,"listPrice":559.99}
+{"id":"product316","type":"product","name":"Trek Checkpoint ALR 4 Women's - 2019","brand":"Trek","category":"Road Bikes","modelYear":2019,"listPrice":1699.99}
+{"id":"product317","type":"product","name":"Trek Checkpoint ALR 5 - 2019","brand":"Trek","category":"Road Bikes","modelYear":2019,"listPrice":1999.99}
+{"id":"product318","type":"product","name":"Trek Checkpoint ALR 5 Women's - 2019","brand":"Trek","category":"Road Bikes","modelYear":2019,"listPrice":1999.99}
+{"id":"product319","type":"product","name":"Trek Checkpoint SL 5 Women's - 2019","brand":"Trek","category":"Road Bikes","modelYear":2019,"listPrice":2799.99}
+{"id":"product320","type":"product","name":"Trek Checkpoint SL 6 - 2019","brand":"Trek","category":"Road Bikes","modelYear":2019,"listPrice":3799.99}
+{"id":"product321","type":"product","name":"Trek Checkpoint ALR Frameset - 2019","brand":"Trek","category":"Road Bikes","modelYear":2019,"listPrice":3199.99}
