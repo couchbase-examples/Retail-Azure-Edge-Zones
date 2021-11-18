@@ -170,7 +170,7 @@ sudo systemctl stop sync_gateway.service
 <li>Download Webserver Source Code
 
 ```
-git clone -b REST-API https://github.com/JamesWilkinsonCB/Retail-Azure-Edge-Zones.git
+git clone https://github.com/JamesWilkinsonCB/Retail-Azure-Edge-Zones.git
 ```
 
 </li>
