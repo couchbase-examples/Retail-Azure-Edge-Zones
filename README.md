@@ -1,5 +1,28 @@
 # Deployment Guide
 
+The retail industry is modernizing their applications, many of which are latency sensitive, need high availability and would need distributed edge computing capabilities in order to support them. Azure Edge Zones combined with Couchbase’ highly scalable, distributed and embedded database can provide the perfect platform for such applications.
+
+In this deployment guide we will detail how to deploy the architecture in Microsoft Azure to support this retail use case. We will be deploying the following resources:
+
+- A VM in the cloud running the following:
+
+  - Couchbase Server
+  - Couchbase Sync Gateway
+  - A Retail Web Application
+
+- A VM in the edge zone running the following:
+
+  - Couchbase Server
+  - Couchbase Sync Gateway
+  - A Retail Web Application
+
+<!-- - A mobile application embedded with Couchbase Lite
+- An Azure Traffic manager -->
+
+Please see the diagram of the architecture we will be deploying below.
+
+![Arch](./assets/ArchDiagram.png)
+
 ## Prerequisites
 
 Install Azure CLI Version [(Install Azure CLI)](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
@@ -14,7 +37,7 @@ Install Azure CLI Version [(Install Azure CLI)](https://docs.microsoft.com/en-us
 <li> Creating a resource group
 
 ```
-az group create --name <resource_group_name> --location westus
+az group create --name <resource_group_name> --location <location_name>
 ```
 
 </li>
@@ -22,7 +45,7 @@ az group create --name <resource_group_name> --location westus
 Creating a VNET with a subnet
 
 ```
-az network vnet create -g <resource_group_name> -n <vnet_name> --address-prefix <vnet_prefix> --subnet-name <subnet_name> --subnet-prefix <subnet_prefix> --location westus
+az network vnet create -g <resource_group_name> -n <vnet_name> --address-prefix <vnet_prefix> --subnet-name <subnet_name> --subnet-prefix <subnet_prefix> --location <location_name>
 ```
 
 </li>
@@ -30,7 +53,7 @@ az network vnet create -g <resource_group_name> -n <vnet_name> --address-prefix 
 Creating a Virtual Machine
 
 ```
-az vm create --resource-group <resource_group_name> --name <vm_name> --image UbuntuLTS --admin-username <user> --generate-ssh-keys --location westus --subnet <subnet_name>  --vnet-name <vnet_name> --public-ip-sku Standard
+az vm create --resource-group <resource_group_name> --name <vm_name> --image UbuntuLTS --admin-username <user> --generate-ssh-keys --location <location_name> --subnet <subnet_name>  --vnet-name <vnet_name> --public-ip-sku Standard
 ```
 
 </li>
@@ -262,20 +285,16 @@ You can also verify its running by going to `http://machine-ip-address:4984`.
 
 Resource Groups
 
-```
-az group create --name <resource_group_name> --location westus
-```
-
 Creating a VNET with a subnet
 
 ```
-az network vnet create -g <resource_group_name> -n <vnet_name> --address-prefix <vnet_prefix> --subnet-name <subnet_name> --subnet-prefix <subnet_prefix> --edge-zone microsoftlosangeles1 --location westus
+az network vnet create -g <resource_group_name> -n <vnet_name> --address-prefix <vnet_prefix> --subnet-name <subnet_name> --subnet-prefix <subnet_prefix> --edge-zone <edge_zone_location> --location <location_name>
 ```
 
 Creating VM
 
 ```
-az vm create --resource-group <resource_group_name> --name <vm_name> --image UbuntuLTS --admin-username <user> --generate-ssh-keys --edge-zone microsoftlosangeles1 --location westus --subnet <subnet_name>  --vnet-name <vnet_name> --public-ip-sku Standard
+az vm create --resource-group <resource_group_name> --name <vm_name> --image UbuntuLTS --admin-username <user> --generate-ssh-keys --edge-zone <edge-zone-location> --location <location_name> --subnet <subnet_name>  --vnet-name <vnet_name> --public-ip-sku Standard
 ```
 
 ### Networking Rules
