@@ -19,7 +19,7 @@ jobs:
           cache: maven
       - id: run
         run: |
-          ./mvnw --no-daemon test
+          ./mvnw test
       - name: Report Status
         if: always()
         uses: ravsamhq/notify-slack-action@v1
