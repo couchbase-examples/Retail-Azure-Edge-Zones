@@ -1,10 +1,10 @@
 package org.couchbase.azureedgeretail;
 
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(exclude = SecurityAutoConfiguration.class, proxyBeanMethods = false)
+// Spring Security is not on the classpath, so no security auto-configuration needs excluding.
+@SpringBootApplication(proxyBeanMethods = false)
 public class Application {
 
     public static void main(String[] args) {

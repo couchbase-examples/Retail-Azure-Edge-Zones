@@ -4,9 +4,9 @@ import com.couchbase.client.java.Bucket;
 import com.couchbase.client.java.Cluster;
 import com.couchbase.client.java.Collection;
 import com.couchbase.client.java.query.QueryScanConsistency;
-import io.swagger.annotations.ApiOperation;
-import io.swagger.annotations.ApiResponse;
-import io.swagger.annotations.ApiResponses;
+import io.swagger.v3.oas.annotations.Operation;
+import io.swagger.v3.oas.annotations.responses.ApiResponse;
+import io.swagger.v3.oas.annotations.responses.ApiResponses;
 import static org.couchbase.azureedgeretail.configs.CollectionNames.PRODUCT;
 
 import org.couchbase.azureedgeretail.configs.DBProperties;
@@ -36,9 +36,9 @@ public class ProductController {
 
   @CrossOrigin(value = "*")
   @PostMapping(path = "/", produces = MediaType.APPLICATION_JSON_VALUE)
-  @ApiOperation(value = "Create a new product from the request")
-  @ApiResponses({ @ApiResponse(code = 201, message = "Created", response = Product.class),
-      @ApiResponse(code = 500, message = "Internal Server Error", response = Error.class) })
+  @Operation(summary = "Create a new product from the request")
+  @ApiResponses({ @ApiResponse(responseCode = "201", description = "Created"),
+      @ApiResponse(responseCode = "500", description = "Internal Server Error") })
   public ResponseEntity<Product> save(@RequestBody final ProductRequest newProduct) {
     // generates an id and save the product
     Product product = newProduct.getProduct();
@@ -48,9 +48,9 @@ public class ProductController {
 
   @CrossOrigin(value = "*")
   @GetMapping(path = "/{id}", produces = MediaType.APPLICATION_JSON_VALUE)
-  @ApiOperation(value = "Get a product by Id", produces = MediaType.APPLICATION_JSON_VALUE)
-  @ApiResponses(value = { @ApiResponse(code = 200, message = "OK"),
-      @ApiResponse(code = 500, message = "Error occurred in getting products", response = Error.class) })
+  @Operation(summary = "Get a product by Id")
+  @ApiResponses(value = { @ApiResponse(responseCode = "200", description = "OK"),
+      @ApiResponse(responseCode = "500", description = "Error occurred in getting products") })
   public ResponseEntity<Product> getProduct(@RequestParam String id) {
     Product product = productCol.get(id).contentAs(Product.class);
     return ResponseEntity.status(HttpStatus.OK).body(product);
@@ -58,10 +58,10 @@ public class ProductController {
 
   @CrossOrigin(value = "*")
   @PutMapping(path = "/{id}")
-  @ApiOperation(value = "Update a product", response = Product.class)
-  @ApiResponses({ @ApiResponse(code = 200, message = "Updated the product", response = Product.class),
-      @ApiResponse(code = 404, message = "product not found", response = Error.class),
-      @ApiResponse(code = 500, message = "returns internal server error", response = Error.class) })
+  @Operation(summary = "Update a product")
+  @ApiResponses({ @ApiResponse(responseCode = "200", description = "Updated the product"),
+      @ApiResponse(responseCode = "404", description = "product not found"),
+      @ApiResponse(responseCode = "500", description = "returns internal server error") })
   public ResponseEntity<Product> update(@PathVariable("id") String id, @RequestBody Product product) {
 
     try {
@@ -74,11 +74,11 @@ public class ProductController {
 
   @CrossOrigin(value = "*")
   @DeleteMapping(path = "/{id}")
-  @ApiOperation(value = "Delete a Product")
-  @ApiResponses({ @ApiResponse(code = 200, message = "OK"),
-      @ApiResponse(code = 401, message = "Unauthorized", response = Error.class),
-      @ApiResponse(code = 404, message = "Not Found", response = Error.class),
-      @ApiResponse(code = 500, message = "Internal Server Error", response = Error.class) })
+  @Operation(summary = "Delete a Product")
+  @ApiResponses({ @ApiResponse(responseCode = "200", description = "OK"),
+      @ApiResponse(responseCode = "401", description = "Unauthorized"),
+      @ApiResponse(responseCode = "404", description = "Not Found"),
+      @ApiResponse(responseCode = "500", description = "Internal Server Error") })
   public ResponseEntity delete(@PathVariable String id) {
 
     try {
@@ -91,9 +91,9 @@ public class ProductController {
 
   @CrossOrigin(value = "*")
   @GetMapping(path = "/products/", produces = MediaType.APPLICATION_JSON_VALUE)
-  @ApiOperation(value = "Search for products", produces = MediaType.APPLICATION_JSON_VALUE)
-  @ApiResponses(value = { @ApiResponse(code = 200, message = "Returns the list of products"),
-      @ApiResponse(code = 500, message = "Error occurred in getting products", response = Error.class) })
+  @Operation(summary = "Search for products")
+  @ApiResponses(value = { @ApiResponse(responseCode = "200", description = "Returns the list of products"),
+      @ApiResponse(responseCode = "500", description = "Error occurred in getting products") })
   public ResponseEntity<List<Product>> getProducts(@RequestParam(required = false, defaultValue = "5") int limit,
       @RequestParam(required = false, defaultValue = "0") int skip, @RequestParam String search) {
 
