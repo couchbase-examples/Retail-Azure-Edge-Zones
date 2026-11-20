@@ -123,6 +123,25 @@ public class ProductTest {
   }
 
   @Test
+  public void testListProductsTreatsSearchAsDataNotQuery() {
+
+    // test data
+    Product testProduct = getTestProduct();
+    bucket.collection(CollectionNames.PRODUCT).insert(testProduct.getId(), testProduct);
+
+    // a search term that would widen the WHERE clause if it were spliced into the N1QL text
+    String injectedSearch = "Toaster%' OR p.name LIKE '";
+
+    EntityExchangeResult<List<Product>> productListResult = this.webTestClient.get()
+        .uri(uriBuilder -> uriBuilder.path("/api/v1/product/products/").queryParam("limit", 5)
+            .queryParam("skip", 0).queryParam("search", "{search}").build(injectedSearch))
+        .accept(MediaType.APPLICATION_JSON).exchange().expectStatus().isOk().expectHeader()
+        .contentType(MediaType.APPLICATION_JSON).expectBodyList(Product.class).returnResult();
+
+    MatcherAssert.assertThat(productListResult.getResponseBody(), Matchers.hasSize(0));
+  }
+
+  @Test
   public void testDeleteProduct() {
 
     exceptionRule.expect(DocumentNotFoundException.class);

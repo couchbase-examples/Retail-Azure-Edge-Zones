@@ -1,22 +1,16 @@
 package org.couchbase.azureedgeretail.controllers;
 
-import com.couchbase.client.java.Bucket;
-import com.couchbase.client.java.Cluster;
-import com.couchbase.client.java.Collection;
-import com.couchbase.client.java.query.QueryScanConsistency;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;
 import io.swagger.annotations.ApiResponses;
-import static org.couchbase.azureedgeretail.configs.CollectionNames.PRODUCT;
 
-import org.couchbase.azureedgeretail.configs.DBProperties;
 import org.couchbase.azureedgeretail.models.Product;
 import org.couchbase.azureedgeretail.models.ProductRequest;
+import org.couchbase.azureedgeretail.repositories.ProductRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import static com.couchbase.client.java.query.QueryOptions.queryOptions;
 
 import java.util.List;
 
@@ -24,14 +18,10 @@ import java.util.List;
 @RequestMapping("/api/v1/product")
 public class ProductController {
 
-  private Cluster cluster;
-  private Collection productCol;
-  private DBProperties dbProperties;
+  private final ProductRepository products;
 
-  public ProductController(Cluster cluster, Bucket bucket, DBProperties dbProperties) {
-    this.cluster = cluster;
-    this.productCol = bucket.collection(PRODUCT);
-    this.dbProperties = dbProperties;
+  public ProductController(ProductRepository products) {
+    this.products = products;
   }
 
   @CrossOrigin(value = "*")
@@ -41,8 +31,7 @@ public class ProductController {
       @ApiResponse(code = 500, message = "Internal Server Error", response = Error.class) })
   public ResponseEntity<Product> save(@RequestBody final ProductRequest newProduct) {
     // generates an id and save the product
-    Product product = newProduct.getProduct();
-    productCol.insert(product.getId(), product);
+    Product product = products.insert(newProduct.getProduct());
     return ResponseEntity.status(HttpStatus.CREATED).body(product);
   }
 
@@ -52,7 +41,7 @@ public class ProductController {
   @ApiResponses(value = { @ApiResponse(code = 200, message = "OK"),
       @ApiResponse(code = 500, message = "Error occurred in getting products", response = Error.class) })
   public ResponseEntity<Product> getProduct(@RequestParam String id) {
-    Product product = productCol.get(id).contentAs(Product.class);
+    Product product = products.findById(id);
     return ResponseEntity.status(HttpStatus.OK).body(product);
   }
 
@@ -65,7 +54,7 @@ public class ProductController {
   public ResponseEntity<Product> update(@PathVariable("id") String id, @RequestBody Product product) {
 
     try {
-      productCol.upsert(id, product);
+      products.upsert(id, product);
       return ResponseEntity.status(HttpStatus.CREATED).body(product);
     } catch (Exception e) {
       return ResponseEntity.status(HttpStatus.EXPECTATION_FAILED).body(null);
@@ -82,7 +71,7 @@ public class ProductController {
   public ResponseEntity delete(@PathVariable String id) {
 
     try {
-      productCol.remove(id.toString());
+      products.deleteById(id);
       return ResponseEntity.status(HttpStatus.OK).body(null);
     } catch (Exception e) {
       return ResponseEntity.status(HttpStatus.EXPECTATION_FAILED).body(null);
@@ -97,12 +86,6 @@ public class ProductController {
   public ResponseEntity<List<Product>> getProducts(@RequestParam(required = false, defaultValue = "5") int limit,
       @RequestParam(required = false, defaultValue = "0") int skip, @RequestParam String search) {
 
-    String qryString = "SELECT p.* FROM `" + dbProperties.getBucketName() + "`.`_default`.`" + PRODUCT + "` p "
-        + "WHERE p.name LIKE '%" + search + "%'" + "LIMIT " + limit + " OFFSET " + skip;
-    System.out.println("Query=" + qryString);
-
-    final List<Product> products = cluster
-        .query(qryString, queryOptions().scanConsistency(QueryScanConsistency.REQUEST_PLUS)).rowsAs(Product.class);
-    return ResponseEntity.status(HttpStatus.OK).body(products);
+    return ResponseEntity.status(HttpStatus.OK).body(products.searchByName(search, limit, skip));
   }
 }
